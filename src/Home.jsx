@@ -1,14 +1,14 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import Common from "./Common";
-import  image1  from "./images/image-1.webp";
+import  hero from "./images/hero-logo.webp"
 
 const Home = () => {
   return (
     <>
       <Common  
         name="Grow your business with"
-        imgSrc={image1}
+        imgSrc={hero}
         visit="/service"
         btnName="Get Started"
       />
