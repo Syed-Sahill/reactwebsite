@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/reactwebsite/static/css/main.52a5289f.css",
-    "main.js": "/reactwebsite/static/js/main.f3377eb2.js",
+    "main.js": "/reactwebsite/static/js/main.d4a5de73.js",
     "static/media/mountains.jpg": "/reactwebsite/static/media/mountains.66f61c2615d670223a26.jpg",
     "static/media/view.jpg": "/reactwebsite/static/media/view.6ec34adc374c36803c8d.jpg",
     "static/media/moon.jpg": "/reactwebsite/static/media/moon.9041dedb3ae57c73764a.jpg",
     "static/media/hero-logo.webp": "/reactwebsite/static/media/hero-logo.19bed654e433a301c157.webp",
-    "static/media/image-1.webp": "/reactwebsite/static/media/image-1.2ca5d4c057b553a4db9f.webp",
+    "static/media/html.webp": "/reactwebsite/static/media/html.6897e1ec579b781f8e85.webp",
     "index.html": "/reactwebsite/index.html",
     "main.52a5289f.css.map": "/reactwebsite/static/css/main.52a5289f.css.map",
-    "main.f3377eb2.js.map": "/reactwebsite/static/js/main.f3377eb2.js.map"
+    "main.d4a5de73.js.map": "/reactwebsite/static/js/main.d4a5de73.js.map"
   },
   "entrypoints": [
     "static/css/main.52a5289f.css",
-    "static/js/main.f3377eb2.js"
+    "static/js/main.d4a5de73.js"
   ]
 }
